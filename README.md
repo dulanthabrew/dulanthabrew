@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/dulanthabrew" target="blank"><img src="https://img.shields.io/twitter/follow/dulanthabrew?logo=twitter&style=for-the-badge" alt="dulanthabrew" /></a> </p>
 
-- 🔭 I’m currently working on **IT-EDU**
+- 🔭 I’m currently working on **VP-CodeLab**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Web Developing, Graphic Design**
+- 💬 Ask me about **Software Developing, Programing**
 
 - 📫 How to reach me **dulanonline895@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I Like Making Videos Sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
