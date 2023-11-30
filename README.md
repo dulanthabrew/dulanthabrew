@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Software Developing, Programing**
+- 💬 Ask me about **Software Developing, Programming**
 
 - 📫 How to reach me **dulanonline895@gmail.com**
 
