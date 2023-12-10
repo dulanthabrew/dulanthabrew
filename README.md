@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **VP-CodeLab**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Software Developing, Programming**
 
