@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Software Developing, Programming**
 
-- 📫 How to reach me **dulanonline895@gmail.com**
+- 📫 How to reach me **thabrewmail@gmail.com**
 
-- ⚡ Fun fact **I Like Making Videos Sometimes**
+- ⚡ Fun fact - **I Like Making Videos Sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
