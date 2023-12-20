@@ -32,6 +32,10 @@
 
  <img src="(https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg)](https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg)" alt="fiverr" width="40" height="40"/> </a> <a href="[https://www.java.com](https://www.fiverr.com/dulanthabrew)" target="_blank" rel="noreferrer">
 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+
+
 ### Wanna sponsor me?
 
 <a href="https://www.buymeacoffee.chttps://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logoom/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
