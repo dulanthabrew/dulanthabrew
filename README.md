@@ -30,7 +30,7 @@
 
 ### Wanna get something done?
 
-<a href="[https://linkedin.com/in/dulanthabrew](https://www.fiverr.com/dulanthabrew)" target="blank"><img align="left" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logo)" alt="dulanthabrew" height="30" width="40" /></a> 
+ <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 
 ### Wanna sponsor me?
 
