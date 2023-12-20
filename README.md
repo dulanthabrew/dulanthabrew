@@ -30,7 +30,7 @@
 
 ### Wanna get something done?
 
-<a href="https://fiverr.com/dulanthabrew" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg" alt="dulanthabrew" height="50" width="60" /></a>
+<a href="https://fiverr.com/dulanthabrew" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svghttps://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="dulanthabrew" height="50" width="60" /></a>
 
 
 ### Wanna sponsor me?
