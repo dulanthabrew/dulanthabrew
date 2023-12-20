@@ -30,9 +30,9 @@
 
 ### Wanna get something done?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr]([https://www.fiverr.com/users/gnomezgrave](https://www.fiverr.com/dulanthabrew))
+<a href="[https://linkedin.com/in/dulanthabrew](https://www.fiverr.com/dulanthabrew)" target="blank"><img align="left" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logo)" alt="dulanthabrew" height="30" width="40" /></a> 
 
 ### Wanna sponsor me?
 
-<a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
+<a href="https://www.buymeacoffee.chttps://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logoom/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
 <a href="https://www.patreon.com/bePatron?u=39152607" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
