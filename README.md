@@ -30,9 +30,7 @@
 
 ### Wanna get something done?
 
- <img src="(https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg)](https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg)" alt="fiverr" width="40" height="40"/> </a> <a href="[https://www.java.com](https://www.fiverr.com/dulanthabrew)" target="_blank" rel="noreferrer">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+<img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg" height="40" alt="fiverr"  />
   <img width="12" />
 
 
