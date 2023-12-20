@@ -30,7 +30,7 @@
 
 ### Wanna get something done?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr]([https://www.fiverr.com/users/gnomezgrave](https://www.fiverr.com/dulanthabrew))
 
 ### Wanna sponsor me?
 
