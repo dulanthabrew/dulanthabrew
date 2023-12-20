@@ -30,7 +30,7 @@
 
 ### Wanna get something done?
 
-* <img src="[https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png](https://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logo)" height="20"/>&nbsp; [fiverr]([https://www.fiverr.com/users/gnomezgrave](https://www.fiverr.com/dulanthabrew))
+* <img src="[[https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png](https://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logo)](https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png)" height="20"/>&nbsp; [fiverr]([https://www.fiverr.com/users/gnomezgrave](https://www.fiverr.com/dulanthabrew))
 
 ### Wanna sponsor me?
 
