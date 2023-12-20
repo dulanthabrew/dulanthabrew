@@ -29,15 +29,13 @@
 
 ### Wanna connect with me?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UCB9dJjRyp6gJXItrLPaZsOA)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCqadMDdlCaxzJN2qpj4UwAQ)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UCte9ZuMNwDFLHugTQkU--0g)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/1538258/praneeth-peiris)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/gnomezgrave)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/instagram.png" height="20"/>&nbsp; [Instagram](https://www.instagram.com/praneethpeiris/)
+<p align="center">
 <a href="https://twitter.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulanthabrew" height="30" width="40" /></a>
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fb.png" height="20"/>&nbsp; [Facebook](https://www.facebook.com/gnomezGrave)
+<a href="https://linkedin.com/in/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanthabrew" height="30" width="40" /></a>
+<a href="https://fb.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulanthabrew" height="30" width="40" /></a>
+<a href="https://instagram.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulanthabrew" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulanthabrew" height="30" width="40" /></a>
+</p>
 
 
 ### Wanna get something done?
