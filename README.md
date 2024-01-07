@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **C**
 
+- 🌐Portfolio https://dulanthabrew.netlify.app/
+
 - 💬 Ask me about **Software Developing, Programming**
 
 - 📫 How to reach me **thabrewmail@gmail.com**
