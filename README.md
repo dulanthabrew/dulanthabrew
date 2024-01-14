@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&label=Profile%20views&color=0e75b6&style=flat" alt="dulanthabrew" /> </p>
 
-- 🔭 I’m currently working on **VP-CodeLab**
+- 🔭 I’m currently working on **My-Self**
 
 - 🌱 I’m currently learning **C**
 
-- 🌐Portfolio https://dulanthabrew.netlify.app/
+- 🌐Portfolio https://www.dulanthabrew.live/
 
 - 💬 Ask me about **Software Developing, Programming**
 
