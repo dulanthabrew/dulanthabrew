@@ -1,4 +1,4 @@
-![Header](20240118_083551_0000.png
+![Header](20240118_083551_0000.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&label=Profile%20views&color=0e75b6&style=flat" alt="dulanthabrew" /> </p>
 
 - 🔭 I’m currently working on **My-Self**
