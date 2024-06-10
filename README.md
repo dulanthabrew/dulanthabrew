@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My-Self**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Java**
 
 - 🌐Portfolio https://www.dulanthabrew.live/
 
