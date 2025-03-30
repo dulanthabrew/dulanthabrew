@@ -1,5 +1,5 @@
   <p align="center">
-    <img width="1000" src="[https://media1.giphy.com/channel_assets/charlos_/EwtlNE0w0jqB.gif](https://github.com/dulanthabrew/dulanthabrew/blob/main/20240118_083551_0000.png?raw=true)">
+    <img width="1000" src="https://github.com/dulanthabrew/dulanthabrew/blob/main/20240118_083551_0000.png?raw=true">
 </p>
 <h1> Hello Fellow &lt; Developers/ &gt;! <br>I'm <i>Dulan Thabrew</i> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
