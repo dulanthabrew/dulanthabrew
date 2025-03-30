@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h2> Connect with me <img src="<i class="fa-solid fa-handshake-angle"></i>" width="100px"> </h2>
+<h2> Connect with me <img src="https://www.svgrepo.com/show/438610/handshake-round.svg" width="100px"> </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dulanthabrewofficial/">
