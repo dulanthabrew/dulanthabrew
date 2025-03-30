@@ -30,7 +30,7 @@
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,java,c,kali,react,nextjs,nodejs,php,wordpress&amp;perline=7">
   </a>
 </p>
