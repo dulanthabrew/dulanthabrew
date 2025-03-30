@@ -1,32 +1,56 @@
-![Header](20240118_083551_0000.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&label=Profile%20views&color=0e75b6&style=flat" alt="dulanthabrew" /> </p>
+  <p align="center">
+    <img width="1000" src="https://media1.giphy.com/channel_assets/charlos_/EwtlNE0w0jqB.gif">
+</p>
+<h1> Hello Fellow &lt; Developers/ &gt;! <br>I'm <i>Dulan Thabrew</i> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+</p>
+<p></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="dulanthabrew"> </p>
 
-- 🔭 I’m currently working on **My-Self**
-
-- 🌱 I’m currently learning **Java**
-
-- 🌐Portfolio https://www.dulanthabrew.live/
-
-- 💬 Ask me about **Software Developing, Programming**
-
-- 📫 How to reach me **thabrewmail@gmail.com**
-
-- ⚡ Fun fact - **I Like Making Videos Sometimes**
-
-### Wanna connect with me?
+<div size="20px">I'm Dulan Thabrew, a BSc (Hons) Computer Science undergraduate and the founder of CODEXA. Passionate about web development, mobile apps, and SaaS, I love building innovative solutions and continuously learning new technologies. My projects reflect my dedication to design, functionality, and user experience. Feel free to explore my repositories and connect with me! 🚀
+</div>
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🔭 I’m currently working on My-Self</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Java</p>
+</li>
+<li>
+<p>🌐Portfolio https://www.dulanthabrew.live/</p>
+</li>
+<li>
+<p>💬 Ask me about Software Developing, Programming</p>
+</li>
+<li>
+<p>⚡ Fun fact - I Like Making Videos Sometimes</p>
+</li>
+</ul>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
 <p align="left">
-<a href="https://twitter.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulanthabrew" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanthabrew" height="30" width="40" /></a>
-<a href="https://fb.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulanthabrew" height="30" width="40" /></a>
-<a href="https://instagram.com/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dulanthabrew" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dulanthabrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulanthabrew" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,java,c,kali,react,nextjs,nodejs,php,wordpress&amp;perline=7">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
-### Wanna sponsor me?
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord">
+  </a>
+</p>
 
-<a href="[https://www.buymeacoffee.chttps://images.sftcdn.net/images/t_app-icon-m/p/a2e496f0-9b63-11e6-939e-00163ec9f5fa/3557621090/fiverr-logoom/gnomezgrave" target="_blank](https://www.buymeacoffee.com/dulanonlinb)"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
-<a href="patreon.com/DulanThabrew" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
+<br>
+<br>
