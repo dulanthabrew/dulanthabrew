@@ -1,7 +1,7 @@
   <p align="center">
     <img width="1000" src="https://github.com/dulanthabrew/dulanthabrew/blob/main/20240118_083551_0000.png?raw=true">
 </p>
-<h1> Hello Fellow &lt; Developers/ &gt;! <br>I'm <i>Dulan Thabrew</i> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello Fellow &lt; Developers/ &gt;!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="dulanthabrew"> </p>
