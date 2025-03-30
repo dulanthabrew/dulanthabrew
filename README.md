@@ -4,7 +4,7 @@
 <h1> Hello Fellow &lt; Developers/ &gt;! <br>I'm <i>Dulan Thabrew</i> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&amp;label=Profile views&amp;color=0e75b6&amp;style=flat" alt="dulanthabrew"> </p>
+<p></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="dulanthabrew"> </p>
 
 <div size="20px">I'm Dulan Thabrew, a BSc (Hons) Computer Science undergraduate and the founder of CODEXA. Passionate about web development, mobile apps, and SaaS, I love building innovative solutions and continuously learning new technologies. My projects reflect my dedication to design, functionality, and user experience. Feel free to explore my repositories and connect with me! 🚀
 </div>
