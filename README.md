@@ -38,16 +38,16 @@
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/dulanthabrewofficial/">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/dulanthabrew/">
     <img src="https://skillicons.dev/icons?i=instagram">
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://x.com/dulanthabrew">
     <img src="https://skillicons.dev/icons?i=twitter">
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://discord.gg/xrzdcTAz">
     <img src="https://skillicons.dev/icons?i=discord">
   </a>
 </p>
