@@ -8,7 +8,7 @@
 
 <div size="20px">I'm Dulan Thabrew, a BSc (Hons) Computer Science undergraduate and the founder of CODEXA. Passionate about web development, mobile apps, and SaaS, I love building innovative solutions and continuously learning new technologies. My projects reflect my dedication to design, functionality, and user experience. Feel free to explore my repositories and connect with me! 🚀
 </div>
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
@@ -27,7 +27,7 @@
 <p>⚡ Fun fact - I Like Making Videos Sometimes</p>
 </li>
 </ul>
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+<h2> Skills </h2>
 
 <p align="left">
   <a href="#">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h2> Connect with me <img src="https://www.svgrepo.com/show/438610/handshake-round.svg" width="100px"> </h2>
+<h2> Connect with me </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dulanthabrewofficial/">
