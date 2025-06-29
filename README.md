@@ -15,7 +15,7 @@
 <p>🔭 I’m currently working on My-Self</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Java</p>
+<p>🌱 I’m currently learning React</p>
 </li>
 <li>
 <p>🌐Portfolio https://www.dulanthabrew.live/</p>
