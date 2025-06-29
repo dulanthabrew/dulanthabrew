@@ -50,6 +50,12 @@
   <a href="https://discord.gg/xrzdcTAz">
     <img src="https://skillicons.dev/icons?i=discord">
   </a>
+    <a href="https://www.youtube.com/@dulanthabrew">
+    <img src="https://skillicons.dev/icons?i=youtube">
+  </a>
+    <a href="https://www.tiktok.com/@dulanthabrew">
+    <img src="https://skillicons.dev/icons?i=tiktok">
+  </a>
 </p>
 
 <h2>Support My Work</h2>
