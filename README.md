@@ -20,6 +20,9 @@
 <li>
 <p>🌐Portfolio https://www.dulanthabrew.live/</p>
 </li>
+  <li>
+<p>🌐My all socials https://solo.to/dulanthabrew/</p>
+</li>
 <li>
 <p>💬 Ask me about Software Developing, Programming</p>
 </li>
@@ -49,12 +52,6 @@
   </a>
   <a href="https://discord.gg/xrzdcTAz">
     <img src="https://skillicons.dev/icons?i=discord">
-  </a>
-    <a href="https://www.youtube.com/@dulanthabrew">
-    <img src="https://skillicons.dev/icons?i=youtube">
-  </a>
-    <a href="https://www.tiktok.com/@dulanthabrew">
-    <img src="https://skillicons.dev/icons?i=tiktok">
   </a>
 </p>
 
