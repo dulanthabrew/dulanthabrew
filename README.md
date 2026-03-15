@@ -58,7 +58,7 @@
 <h2>Support My Work</h2>
 <p align="left">
   <a href="https://buymeacoffee.com/dulanonlinb">
-    <img width="200" src="https://cdn.buymeacoffee.com/assets/logos/icon-black.png">
+    <img width="200" src="https://media0.giphy.com/media/TDQOtnWgsBx99cNoyH/200.gif">
   </a>
 </p>
 
