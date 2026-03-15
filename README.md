@@ -18,7 +18,7 @@
 <p>🌱 I’m currently learning React</p>
 </li>
 <li>
-<p>🌐Portfolio https://www.dulanthabrew.live/</p>
+<p>🌐Portfolio https://www.dulanthabrew.me/</p>
 </li>
   <li>
 <p>🌐My all socials https://solo.to/dulanthabrew/</p>
