@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,java,c,kali,react,nextjs,nodejs,php,wordpress&amp;perline=7">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,java,c,linux,react,nextjs,nodejs,php,wordpress,docker,aws,terraform,prometheus,grafana,nginx,kubernetes&amp;perline=7">
   </a>
 </p>
 
