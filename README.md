@@ -6,7 +6,7 @@
 </p>
 <p></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanthabrew&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="dulanthabrew"> </p>
 
-<div size="20px">I'm Dulan Thabrew, a BSc (Hons) Computer Science undergraduate and the founder of CODEXA. Passionate about web development, mobile apps, and SaaS, I love building innovative solutions and continuously learning new technologies. My projects reflect my dedication to design, functionality, and user experience. Feel free to explore my repositories and connect with me! 🚀
+<div size="20px">I'm Dulan Thabrew, a BSc (Hons) Computer Science undergraduate and the founder of CEYBRAIN, Passionate about web development, mobile apps, and SaaS, I love building innovative solutions and continuously learning new technologies. My projects reflect my dedication to design, functionality, and user experience. Feel free to explore my repositories and connect with me! 🚀
 </div>
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
@@ -21,10 +21,10 @@
 <p>🌐Portfolio https://www.dulanthabrew.me/</p>
 </li>
   <li>
-<p>🌐My all socials https://solo.to/dulanthabrew/</p>
+<p>🌐Ceybrain https://www.ceybrain.com/</p>
 </li>
 <li>
-<p>💬 Ask me about Software Developing, Programming</p>
+<p>💬 Ask me about Software Developing, Programming, and Photography</p>
 </li>
 <li>
 <p>⚡ Fun fact - I Like Making Videos Sometimes</p>
